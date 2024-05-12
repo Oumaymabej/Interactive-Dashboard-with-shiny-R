@@ -6,7 +6,7 @@
 
 - [Introduction](#Introduction)
 - [Installation](#installation)
-
+</div>
 
 # Introduction:
  Dans ce projet, nous allons concevoir et réaliser un tableau de bord dynamique en
