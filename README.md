@@ -4,6 +4,7 @@
     </a>
   <h1 align="center">Canopy</h1>
 </div>
+<div >
 - [Introduction](#Introduction)
 - [Installation](#installation)
 
@@ -50,6 +51,8 @@ Après avoir défini la variable JAVA_HOME, redémarrez votre session R et essay
 Si vous rencontrez toujours des problèmes, vérifiez que la variable JAVA_HOME est correctement définie et pointe vers le répertoire d'installation de Java.
 
 Pour plus d'informations sur l'installation de Java SDK et la configuration de l'environnement, consultez le site officiel de Java: [Java Downloads]("https://www.oracle.com/java/technologies/javase-jdk11-downloads.html")
+
+</div>
 
 
 
