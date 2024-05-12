@@ -14,7 +14,7 @@ utilisant RShiny pour le prétraitement et l’analyse de bases de données méd
 allons nous concentrer sur les bases de données concernant la maladie de Parkinson et la
 maladie d’Alzheimer.
 
-#installation
+# installation
 ## Résolution de l'erreur de chargement du package 'xlsx'
 
 Lorsque vous essayez de charger le package 'xlsx' dans R, vous pouvez rencontrer une erreur indiquant que le chargement du package 'rJava' a échoué et que JAVA_HOME ne peut pas être déterminé à partir du Registre. Voici comment résoudre ce problème :
