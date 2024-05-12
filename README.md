@@ -7,7 +7,7 @@
 - [Introduction](#Introduction)
 - [Installation](#installation)
 
-
+</div>
 # Introduction:
  Dans ce projet, nous allons concevoir et réaliser un tableau de bord dynamique en
 utilisant RShiny pour le prétraitement et l’analyse de bases de données médicales. Nous
