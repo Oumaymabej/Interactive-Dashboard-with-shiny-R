@@ -3,8 +3,7 @@
   <a href="[https://hydralauncher.site](https://www.shinyapps.io/admin/#/application/11984121)">
     </a>
   <h1 align="center">Canopy</h1>
-</div>
-<div >
+
 - [Introduction](#Introduction)
 - [Installation](#installation)
 
