@@ -3,11 +3,11 @@
   <a href="[https://hydralauncher.site](https://www.shinyapps.io/admin/#/application/11984121)">
     </a>
   <h1 align="center">Canopy</h1>
-
+</div>
 - [Introduction](#Introduction)
 - [Installation](#installation)
 
-</div>
+
 # Introduction:
  Dans ce projet, nous allons concevoir et réaliser un tableau de bord dynamique en
 utilisant RShiny pour le prétraitement et l’analyse de bases de données médicales. Nous
